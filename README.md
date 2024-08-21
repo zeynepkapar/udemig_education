@@ -1,4 +1,4 @@
-<h1>Unit Test Covid with React - Tailwind - Redux Toolkit </h1>
+<h1>UDEMIG EDUCATION</h1>
 
 <hr>
 
