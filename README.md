@@ -6,18 +6,15 @@
 
 <p>
 
-# HTML
+HTML
 
 </br></br>
-
-# CSS
+CSS
 </br></br>
 
 
 
 # Testing Process
-
-</br></br>
 
   </br>
   </br> Responsive </p>
