@@ -1,22 +1,14 @@
-<h1>UDEMIG EDUCATION</h1>
-
-<hr>
-
-<h2>Technologies Used</h2>
-
-<p>
-
-HTML
-
-</br></br>
-CSS
-</br></br>
+# Yazılım Akademisi Web Sitesi
 
 
+Bu proje, modern bir Yazılım Akademisi için geliştirilen bir web sitesidir. Web sitesi, akademi hakkında bilgi verir, eğitim programlarını sergiler ve potansiyel öğrencilerin başvurularını kabul eder. HTML, CSS ve Bootstrap kullanılarak mobil uyumlu, kullanıcı dostu bir arayüz ile tasarlanmıştır.
 
-# Testing Process
+# Kullanılan Teknolojiler
 
-  </br>
-  </br> Responsive </p>
+HTML: Web sitesinin yapısal iskeleti.
+CSS: Özel stil düzenlemeleri ve tasarım unsurları.
+Bootstrap: Hızlı ve duyarlı (responsive) bir tasarım elde etmek için kullanıldı.
+
+# Gif
 
 ![](./images/udemig.gif)
